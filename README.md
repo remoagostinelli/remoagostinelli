@@ -2,13 +2,12 @@
 
 Welcome to my repos! I'm a self-taught **`IT Support Specialist`** from Venezuela.
 
-🔭 Coursework:
+### 🔭 Coursework
 - **CS50's Introduction to Computer Science,** Harvard University — ongoing
 - **IT Automation with Python,** Google
 - **IT Support,** Google
 
 ### 🧰 Languages and Tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>

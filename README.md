@@ -1,5 +1,3 @@
-# Remo Agostinelli
-
 Welcome to my repos! I'm a self-taught **`IT Support Specialist`** from Venezuela.
 
 ### 🔭 Coursework
